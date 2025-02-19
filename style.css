@@ -202,7 +202,7 @@ span{
 }
 
 .typing-text span::before{
-    content: "software Developer";
+    content: "video editor";
     color: #b74b4b;
     animation: words 20s infinite;
 }
@@ -226,19 +226,19 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
+        content: "video editor";
     }
     21%, 40%{
-        content: "Developer";
+        content: "photo editor";
     }
     41%, 60%{
-        content: "Web Designer";
+        content: "photographer";
     }
     61%, 80%{
-        content: "Youtuber";
+        content: "web designer";
     }
     81%, 100%{
-        content: "Script Writer";
+        content: "photoshop artist";
     }
 }
 
