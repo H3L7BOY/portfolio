@@ -228,18 +228,7 @@ span{
     0%, 20%{
         content: "video editor";
     }
-    21%, 40%{
-        content: "photo editor";
-    }
-    41%, 60%{
-        content: "photographer";
-    }
-    61%, 80%{
-        content: "web designer";
-    }
-    81%, 100%{
-        content: "photoshop artist";
-    }
+    21%, 40%
 }
 
 @media (max-width: 1000px){
